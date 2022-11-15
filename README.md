@@ -14,5 +14,5 @@ Mi idea es hacer los siguientes proyectos y subirlos a esta web:
 ## Autor
 **Alberto Sánchez-Toscano**
 
-*[LinkedIn](https://www.linkedin.com/in/alberto-sanchez--toscano/)
-*[Portafolio]()
+* [LinkedIn](https://www.linkedin.com/in/alberto-sanchez--toscano/)
+* [Portafolio](https://alber92.github.io/mi-portafolio/)
